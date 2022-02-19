@@ -32,7 +32,6 @@ export default {
 		gap:  5px;
 }
 div {
-	background: #111111;
 	color: whitesmoke;
 	padding: 16px;
 }
