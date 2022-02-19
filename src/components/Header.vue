@@ -63,7 +63,6 @@ div {
 	justify-content: space-between;
 	align-items: center;
 	height: 80px;
-	background: #111111;
 	color: whitesmoke;
 	padding: 25px;
 }
