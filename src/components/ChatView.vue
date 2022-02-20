@@ -72,6 +72,7 @@ textarea {
   box-sizing: border-box;
   resize: none;
   outline: none;
+  border-radius: 16px;
 }
 
 .messageBar {
