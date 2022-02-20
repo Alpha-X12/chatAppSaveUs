@@ -67,7 +67,7 @@ textarea {
   margin: 12px;
   padding: 8px;
   color: grey;
-  background: #222222;
+  background: #101010;
   border: none;
   box-sizing: border-box;
   resize: none;
@@ -81,7 +81,6 @@ textarea {
   height: 20%;
   width: 100%;
   box-sizing: border-box;
-  background: #050505;
 }
 .chatView {
   display: flex;
@@ -104,18 +103,15 @@ textarea {
   color: white;
   text-align: left;
   height: 60px;
-  background: #070707;
 }
 
 .messageColumn {
   color: white;
   text-align: left;
-  background: #070707;
 }
 
 button {
   color: grey;
-  background: #222222;
   border: none;
   margin-top: 12px;
   margin-right: 5%;
