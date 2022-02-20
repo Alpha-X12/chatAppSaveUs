@@ -6,7 +6,6 @@
       </div>
       <div class="message messageColumn" v-for="message in messages" :key="message.content">
 	  <div>
-		<h4>{{message.author.username}} - {{message.author.age}} ans</h4>
 		<p>{{message.content}}</p>
 	  </div>
       </div>
