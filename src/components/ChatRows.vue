@@ -41,7 +41,7 @@ h4{
 }
 div {
 	margin: auto;
-	padding: 0px;=
+	padding: 0px;
 }
 img {
 	border-radius: 12px;
