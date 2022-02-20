@@ -106,8 +106,17 @@ textarea {
 }
 
 .messageColumn {
-  color: white;
-  text-align: left;
+	position: relative;
+	widht: auto;
+	height: auto;
+	min-height:  5vh;
+	backgroud: rgba(230,230,230,1)
+  	color: black;
+  	text-align: left;
+  	padding:  5px;
+	margin: 5px;
+	border-radius: 23px;
+	
 }
 
 button {
